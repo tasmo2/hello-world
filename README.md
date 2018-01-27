@@ -8,7 +8,7 @@ To develop a keymap for the ergodox-keyboard for the field of indologie
     without changing the keymapsettings.
   - build even a more ergonomic keyboard based on the idea of the ergodox.
   
-Enter deeper the vim-script to  
-  - extent vim, to be able displaying devanagari-script proper (not yet so far I am informed)    
+Diving deeper into the vim-script in order to  
+  - extent vim, to be able displaying devanagari-script proper (not yet, so far I am informed)    
 
-so far so good, but guess it will take time.
+but guess it will take time.
