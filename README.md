@@ -1,5 +1,5 @@
 # hello-world
-To begin using a github repo, I just save  my dotfiles here.
+To begin using a github repo, I just save  my dotfiles here, manging them with yadm https://github.com/TheLocehiliosan/yadm.
 
 Futureplans are:
 
